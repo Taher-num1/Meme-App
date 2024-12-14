@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Meme project</string>
+    <string name="title">Meme App</string>
+    <string name="first_des">first part describtion</string>
+    <string name="sec_des">second part describtion</string>
+</resources>
